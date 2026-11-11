@@ -2,7 +2,7 @@
 
 Firmware for a desk air-quality monitor that shows the CO₂ level of your room on a small OLED and on a glowing LED ring.
 
-🖨️ **3D model, print settings, parts list, wiring and assembly:** see the MakerWorld page: **[ADD YOUR MAKERWORLD LINK HERE]**
+🖨️ **3D model, print settings, parts list, wiring and assembly:** see the [MakerWorld page](https://makerworld.com/models/3592051-co2-monitor-rgb-lighting)
 
 ## 🧠 What it does
 
